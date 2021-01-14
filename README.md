@@ -15,4 +15,6 @@ Build a web application that scrapes various websites for data related to the Mi
 * Flask
 
 ![Alt text](app-screenshot1.png)
+
+
 ![Alt text](app-screenshot2.png)
